@@ -1,14 +1,15 @@
 <!-- Animated typing header -->
-<p align="center">
+<div align="center"> 
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=100&center=true&width=600&lines=Hey+I'm+Daniel+👋;Master's+Student+%40+IST;CTF+Player+%7C+Security+Enthusiast;Linux+%26+Cybersecurity+Nerd&color=00FF41"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=100&center=true&width=600&lines=Hey+I'm+Daniel+👋;Master's+Student+%40+IST;CTF+Player+%7C+Security+Enthusiast;Linux+%26+Cybersecurity+Nerd&color=0FC7F7FF"
     alt="Typing animation"
   />
-</p>
+</div>
 
-<p align="center">
+<div align="center"> 
   <img src="https://raw.githubusercontent.com/Dan1e1B/Dan1e1B/main/assets/coding.gif" alt="Welcome!" width="400" />
-</p>
+</div>
+
 
 ---
 
@@ -32,7 +33,7 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img alt="C" src="https://img.shields.io/badge/C-000000?logo=c&logoColor=white&style=for-the-badge" />
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
   <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
@@ -44,10 +45,10 @@
 ## 🔐 Cybersecurity & CTF
 
 <p align="center">
-  <img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white&style=for-the-badge" />
   <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge" />
   <img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-FF6633?logo=burpsuite&logoColor=white&style=for-the-badge" />
   <img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-2596CD?logo=metasploit&logoColor=white&style=for-the-badge" />
+  <img alt="BinaryNinja" src="https://img.shields.io/badge/BinaryNinja-2596CD?logo=binaryninja&logoColor=white&style=for-the-badge" />
   <img alt="CTFd" src="https://img.shields.io/badge/CTF_Player-FF0000?logo=hackthebox&logoColor=white&style=for-the-badge" />
 </p>
 
@@ -59,14 +60,19 @@
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+    <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge" />
+
 </p>
+
+
+  
 
 ---
 
 ## 🛠️ Editors & Tools
 
 <p align="center">
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
+  <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
