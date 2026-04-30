@@ -1,4 +1,3 @@
-<!-- Animated typing header -->
 <div align="center"> 
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=100&center=true&width=600&lines=Hey+I'm+Daniel+👋;Master's+Student+%40+IST;CTF+Player+%7C+Security+Enthusiast;Linux+%26+Cybersecurity+Nerd&color=0FC7F7FF"
@@ -18,15 +17,16 @@
 - 👨‍🎓 **I'm** Daniel Bernardes (`@Dan1e1B`)
 - 🎓 **1st-year Master's in Computer Science & Engineering** @ [Instituto Superior Técnico](https://tecnico.ulisboa.pt/)
 - 🔐 **Member of [STT – Security Team of Técnico](https://sectt.github.io/)**, IST's official cybersecurity team
-- 🚩 **CTF Player** — I compete in Capture The Flag competitions (forensics, pwn, web, crypto & more)
+- 🚩 **CTF Player** I compete in Capture The Flag competitions (forensics, pwn, web, crypto and rev)
 - 📍 **Location:** Lisbon, Portugal
-- 🐧 **Linux Enthusiast** — daily driving Linux, always tinkering
+- 🐧 **Linux Enthusiast** Daily driving Linux, always tinkering
 - 🌱 **Currently diving deeper into:** Blue & Red Teaming, Reverse Engineering, Exploit Dev
 - 🎯 **Interests:** Cybersecurity, Distributed Systems, Low-level Programming
 - 📫 **Reach me at:** [bernardes.dc@gmail.com](mailto:bernardes.dc@gmail.com)
 
 ---
-
+<div align="center"> 
+  
 ## 💻 Programming Languages
 
 <p align="center">
@@ -42,13 +42,12 @@
 
 ---
 
-## 🔐 Cybersecurity & CTF
+## 🔐 Cybersecurity
 
 <p align="center">
   <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge" />
   <img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-FF6633?logo=burpsuite&logoColor=white&style=for-the-badge" />
   <img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-2596CD?logo=metasploit&logoColor=white&style=for-the-badge" />
-  <img alt="BinaryNinja" src="https://img.shields.io/badge/BinaryNinja-2596CD?logo=binaryninja&logoColor=white&style=for-the-badge" />
   <img alt="CTFd" src="https://img.shields.io/badge/CTF_Player-FF0000?logo=hackthebox&logoColor=white&style=for-the-badge" />
 </p>
 
@@ -72,7 +71,7 @@
 ## 🛠️ Editors & Tools
 
 <p align="center">
-  <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
+  <img alt="VS Code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
@@ -82,6 +81,7 @@
 
 ---
 
+
 ## 🔗 Connect with Me
 
 <p align="center">
@@ -89,3 +89,4 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 </p>
+</div>
